@@ -20,9 +20,9 @@
    
 ##### You can also download datasets:
  
-> pima-indians-diabetes
-> Position_Salaries
-> Random-Forest-Regression-Data 
+  - pima-indians-diabetes
+  - Position_Salaries
+  - Random-Forest-Regression-Data 
  
 License
 ----
